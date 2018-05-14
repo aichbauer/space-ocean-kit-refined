@@ -1,0 +1,41 @@
+{
+    "name": "space-ocean-kit-refined",
+    "displayName": "Space Ocean Kit Refined",
+    "description": "This is refined redesign of the theme OceanKit. Supported files: *.js, *.html, *.css, *.jsx, *.json, *.md, and *.py",
+    "version": "0.0.1",
+    "publisher": "space-ocean-kit-refined",
+    "bugs": {
+        "url": "https://github.com/aichbauer/space-ocean-kit-refined/issues"
+    },
+    "homepage": "https://github.com/aichbauer/space-ocean-kit-refined/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aichbauer/space-ocean-kit-refined/"
+    },
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "space ocean kit refined",
+        "space",
+        "ocean",
+        "kit"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space Ocean Kit Refined",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceOceanKitRefined.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1c1f26",
+        "theme": "dark"
+    }
+}
