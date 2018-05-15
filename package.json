@@ -1,7 +1,7 @@
 {
     "name": "space-ocean-kit-refined",
     "displayName": "Space Ocean Kit Refined",
-    "description": "This is refined redesign of the theme OceanKit. Supported files: *.js, *.html, *.css, *.jsx, *.json, *.md, and *.py",
+    "description": "This is a refined redesign of the theme OceanKit with a little inspiration by One Dark Pro. Supported files: *.js, *.html, *.css, *.jsx, *.json, *.md, and *.py",
     "version": "0.1.0",
     "publisher": "space-ocean-kit-refined",
     "bugs": {
@@ -22,7 +22,8 @@
         "space ocean kit refined",
         "space",
         "ocean",
-        "kit"
+        "kit",
+        "refined"
     ],
     "contributes": {
         "themes": [
