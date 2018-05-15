@@ -1,6 +1,6 @@
 # Space Ocean Kit Refined
 
-This is a refined redesign of the theme [OceanKit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit).
+This is a refined redesign of the theme [OceanKit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit) with a little inspiration from [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme).
 
 [GitHub Repository](https://www.github.com/aichbauer/space-ocean-kit-refined)
 
