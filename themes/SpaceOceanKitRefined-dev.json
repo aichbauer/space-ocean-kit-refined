@@ -83,9 +83,9 @@
     "editor.selectionHighlightBorder": "#96b5b4",
     "editor.findMatchBackground": "#96b5b4",
     "editor.hoverHighlightBackground": "#96b5b4",
-    "editor.lineHighlightBorder":"#22262f",
-    "editorIndentGuide.background":"#353b49",
-    "editorIndentGuide.activeBackground":"#c0c5ce",
+    "editor.lineHighlightBorder": "#22262f",
+    "editorIndentGuide.background": "#353b49",
+    "editorIndentGuide.activeBackground": "#669190",
     "editorError.foreground": "#bf5f69",
     "editorWarning.foreground": "#ebcb8b",
     "editorInfo.foreground": "#96b5b4",
@@ -187,10 +187,17 @@
       },
       {
         "name": "js/ts italic",
-        "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+        "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.language.super",
         "settings": {
-          "foreground": "#96b5b4",
+          "foreground": "#bf5f69",
           "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "js/ts normal",
+        "scope": "variable.parameter",
+        "settings": {
+          "foreground": "#bf5f69"
         }
       },
       {
@@ -309,7 +316,8 @@
         "name": "js/ts Keyword",
         "scope": "keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.ternary",
         "settings": {
-          "foreground": "#b48ead"
+          "foreground": "#b48ead",
+          "fontStyle": "italic"
         }
       },
       {
@@ -581,7 +589,7 @@
         "name": "Storage modifier JS TS",
         "scope": "storage.modifier",
         "settings": {
-          "foreground": "#96b5b4"
+          "foreground": "#b48ead"
         }
       },
       {
@@ -874,7 +882,7 @@
         "name": "markup.italic.markdown",
         "scope": "markup.italic.markdown",
         "settings": {
-          "foreground": "#d0866e", 
+          "foreground": "#d0866e",
           "fontStyle": "italic"
         }
       },
@@ -882,7 +890,7 @@
         "name": "markup.bold.markdown",
         "scope": "markup.bold.markdown",
         "settings": {
-          "foreground": "#d0866e", 
+          "foreground": "#d0866e",
           "fontStyle": "bold"
         }
       },
