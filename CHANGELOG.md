@@ -1,3 +1,8 @@
+0.2.1 - May, 17 2018
+
+* 573ab61 Docs: update images (aichbauer)
+* 97945d1 Fix: fix intentBackground, variable, keyword, storage (aichbauer)
+
 0.2.0 - May, 16 2018
 
 * 855d8f4 Docs: update readme and images (aichbauer)
