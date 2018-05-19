@@ -56,5 +56,3 @@ To get the best feeling while programming without any distractions it is recomme
 ## Contributing
 
 To keep the developing part as easy as possible, please use the `themes/SpaceOceanKitRefined-dev.json` and copy that into your `settings.json`. When you are finished with your fix or new feature use copy the changes into `themes/SpaceOceanKitRefined-dev.json`.
-
-
