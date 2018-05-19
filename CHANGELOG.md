@@ -1,3 +1,9 @@
+0.3.0 - May, 19 2018
+
+* 5b62d61 Docs: change images due cursor presence (aichbauer)
+* 18c2458 Style: remove blank lines (aichbauer)
+* f539ca9 Feat: colorize integrated terminal, new color cursor (aichbauer)
+
 0.2.1 - May, 17 2018
 
 * 573ab61 Docs: update images (aichbauer)
