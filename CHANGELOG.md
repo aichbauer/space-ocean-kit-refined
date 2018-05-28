@@ -1,3 +1,7 @@
+0.3.1 - May, 28 2018
+
+* 35d2455 Fix: *, null, undefined (aichbauer)
+
 0.3.0 - May, 19 2018
 
 * 5b62d61 Docs: change images due cursor presence (aichbauer)
