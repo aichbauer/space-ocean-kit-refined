@@ -219,6 +219,13 @@
         }
       },
       {
+        "name": "js/ts import export all, null, undefined",
+        "scope": "constant.language.import-export-all.js, constant.language.null.js, constant.language.undefined.js",
+        "settings": {
+          "foreground": "#96b5b4"
+        }
+      },
+      {
         "name": "js/ts import keyword",
         "scope": "keyword.operator.expression.import",
         "settings": {
